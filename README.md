@@ -82,7 +82,7 @@ The deadline for entering information about groups, data, and variables is Novem
 
 One member of the team should 
 
-1. Follow  the invitation link for your homework (https://classroom.github.com/a/3kfQF7nm).
+1. Follow  the invitation link for your homework (https://classroom.github.com/a/DdTdfn4P).
 2. Log in to GitHub. You will be presented with a list of students.
 3. Find yourself on the list and follow the further instructions. A personal team repository will be automatically created for you. 
 
